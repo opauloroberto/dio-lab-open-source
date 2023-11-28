@@ -4,8 +4,4 @@ _Olá, me chamo Paulo Roberto. sou bacharel em Odontologia e estou começando no
 
 ___
 
-[Linkedin](https://www.linkedin.com/in/opauloroberto/)
-
-[Perfil DIO](https://www.dio.me/users/opauloroberto93)
-
-.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/opauloroberto/)
