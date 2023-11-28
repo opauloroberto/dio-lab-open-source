@@ -1,4 +1,4 @@
-# Paulo Roberto Freire
+# Paulo Roberto
 
 _Olá, me chamo Paulo Roberto. sou bacharel em Odontologia e estou começando no mundo da programação, e esta é a minha contribuição em um projeto open source no GitHub._
 
